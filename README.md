@@ -1,8 +1,15 @@
-# Hi, I'm JD 👋 — Full-Stack Engineer (Peru)
+# Hi, I'm Juan Merma 👋 — Full-Stack Engineer (Peru)
 
-**ES:** Ingeniero full-stack con +10 años de experiencia. Empecé construyendo ERPs en **C#/.NET + SQL Server** en producción (2019), hoy construyo sistemas modernos en **TypeScript (NestJS / Next.js)** y **Python (FastAPI)**, con foco en SaaS multi-tenant, facturación electrónica peruana (SUNAT) y aplicación de IA. Abierto a trabajo freelance.
+**ES:** Ingeniero full-stack con +10 años de experiencia. Empecé construyendo 
+ERPs en **C#/.NET + SQL Server** en producción (2019), hoy construyo sistemas 
+modernos en **TypeScript (NestJS / Next.js)** y **Python (FastAPI)**, con 
+foco en SaaS multi-tenant, facturación electrónica peruana (SUNAT) y 
+aplicación de IA. Abierto a trabajo freelance.
 
-**EN:** Full-stack engineer, 10+ years. Started shipping **C#/.NET + SQL Server** ERPs to production (2019); now building modern **TypeScript (NestJS / Next.js)** and **Python (FastAPI)** systems — multi-tenant SaaS, Peruvian e-invoicing (SUNAT), and applied AI. Open to freelance work.
+**EN:** Full-stack engineer, 10+ years. Started shipping **C#/.NET + SQL Server** 
+ERPs to production (2016); now building modern **TypeScript (NestJS / Next.js)** 
+and **Python (FastAPI)** systems — multi-tenant SaaS, Peruvian e-invoicing 
+(SUNAT), and applied AI. Open to freelance work.
 
 🌐 [zentryxapp.com](https://zentryxapp.com) · 📍 Tacna, Peru · 💬 ES / EN
 
@@ -40,13 +47,13 @@
 | **Drone software** | Autonomous-drone stack: companion computer + Ground Control Station + SITL simulation on PX4. Real-time telemetry dashboard. | Python (FastAPI) · React/TS · Docker |
 | **Legacy: Sistema Egatur** | Desktop ERP for a multi-branch culinary school (academics + kitchen/inventory + finance) — 123 WinForms, layered architecture, in production 2019–2022. | C# / .NET Framework · WinForms · SQL Server |
 
-> More projects (OSINT tooling, Polymarket backtesting, screen recorder, etc.) — see pinned repos.
+> Also exploring: AI dev tooling, automation utilities, and applied robotics.
 
 ---
 
 ## 📫 Contact
 
 - 🌐 Web: [zentryxapp.com](https://zentryxapp.com)
-- 💼 Available for freelance — full-stack TypeScript / Python, SaaS, e-invoicing (Peru/SUNAT), AI integrations
-
-<!-- Opcional: tarjeta de stats — ![stats](https://github-readme-stats.vercel.app/api?username=Zarenk&show_icons=true) -->
+- 💼 **Available for freelance** — full-stack TypeScript / Python, SaaS, e-invoicing (Peru/SUNAT), AI integrations
+- 💬 **Upwork:** Senior full-stack and AI integration projects
+- 📧 **Email:** jdzare.dev@gmail.com
